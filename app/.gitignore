@@ -1,0 +1,11 @@
+java
+.classpath
+.gradle/
+.idea/
+*.iml
+build/
+.DS_Store
+local.properties
+*.swp
+*.swo
+*~
