@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atrapa el Ratón</string>
+    <string name="start_button">Comenzar</string>
+    <string name="reset_button">Reiniciar</string>
+    <string name="score_label">Puntuación: </string>
+    <string name="timer_label">Tiempo: </string>
+</resources>
